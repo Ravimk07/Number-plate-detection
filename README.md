@@ -1,2 +1,2 @@
-# Number-plate-detection.....
+# Number-plate-detection
 .....  Ravi
